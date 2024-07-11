@@ -2,3 +2,4 @@ doc8>=0.8.0
 readme-renderer>=17.4
 Sphinx>=1.7.0
 sphinx_rtd_theme>=0.2.4
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
